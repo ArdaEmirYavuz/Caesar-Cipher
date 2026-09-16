@@ -27,7 +27,7 @@ while(True):
         elif(userChoice.upper() == "DECODE"):
             message2 = input(modules.messageToWillEncodeDecode)
             while(True):
-                shift = input("Please enter your shift number to encode:")
+                shift = input("Please enter your shift number to decode:")
                 isValid = modules.validator(shift)
                 if(isValid == True):
                     break
