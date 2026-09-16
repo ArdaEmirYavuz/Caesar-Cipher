@@ -1,5 +1,5 @@
 alphabet = ["A", "B", "C", "Ç", "D", "E", "F", "G", "Ğ", "H", "I", "İ", "J", "K", "L", "M", "N", "O", "Ö", "P", "R", "S", "Ş", "T", "U", "Ü", "V", "Y", "Z"]
-messageWelcome = "Welcome To Ceaser Cipher"
+messageWelcome = "Welcome To Caesar Cipher"
 messageToWillEncodeDecode = "Please enter your message:"
 isValidShiftNum = False
 shiftNum = 0
